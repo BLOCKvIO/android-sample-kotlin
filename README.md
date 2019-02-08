@@ -45,7 +45,7 @@ This sample demos the following features of the BLOCKv Android Sdk
 
 To set up the example:
 
-1. Change [*replace-with-your-app-id*](./app/src/main/java/io/blockv/example/BlockvModule.java#L29) in the BlockvModule.java file to your own **App ID**. See [FAQ](https://developer.blockv.io/docs/faq)
+1. Change [*replace-with-your-app-id*](./app/src/main/java/io/blockv/sample/feature/BlockvModule.kt#L22) in the BlockvModule.java file to your own **App ID**. See [FAQ](https://developer.blockv.io/docs/faq)
 1. Compile and run.
 
 <h3>Building</h3>
