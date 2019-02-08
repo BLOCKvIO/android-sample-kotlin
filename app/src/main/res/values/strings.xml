@@ -1,0 +1,102 @@
+<resources>
+  <!--SampleApp -->
+  <string name="app_name">SampleApp</string>
+
+  <!-- Login page -->
+  <!--Login -->
+  <string name="feature_login_login">Login</string>
+  <!--Telephone Number (+) -->
+  <string name="feature_login_telephone_number">Telephone Number (+)</string>
+  <!--Password -->
+  <string name="feature_login_password">Password</string>
+  <!--Submit -->
+  <string name="feature_login_submit">Submit</string>
+  <!--Click here to register -->
+  <string name="feature_login_register">Click here to register</string>
+  <!--Send one time pin -->
+  <string name="feature_login_send_otp">Send one time pin to my phone</string>
+  <!--Sending one time pin... -->
+  <string name="feature_login_sending_pin">Sending one time pin…</string>
+  <!--Please fill in your telephone number -->
+  <string name="feature_login_fill_in_telephone_number">Please fill in your telephone number</string>
+  <!--Please fill in your password -->
+  <string name="feature_login_fill_in_password">Please fill in your password</string>
+  <!--Your telephone number must start with a \'+\' -->
+  <string name="feature_login_number_starts_with">Your telephone number must start with a \'+\'</string>
+  <!--Pin sent -->
+  <string name="feature_login_pin_sent">Pin sent</string>
+
+  <!-- Vatom View page -->
+  <!--Loading…-->
+  <string name="feature_activated_loading">Loading…</string>
+  <!--vAtom Details-->
+  <string name="feature_activated_title">vAtom View</string>
+  <!--No vAtom found with id-->
+  <string name="feature_activated_no_vatom">No vAtom found with id</string>
+  <!--No vAtom found with id-->
+  <string name="feature_activated_details">Details</string>
+
+  <!--Inventory screen -->
+  <!--Profile-->
+  <string name="feature_inventory_profile">Profile</string>
+
+  <!--Profile screen-->
+  <!--User Profile-->
+  <string name="feature_profile_title">User Profile</string>
+  <!--First Name-->
+  <string name="feature_profile_first_name">First Name</string>
+  <!--Last Name-->
+  <string name="feature_profile_last_name">Last Name</string>
+  <!--Update Password-->
+  <string name="feature_profile_password">Password</string>
+  <!--Save-->
+  <string name="feature_profile_save">Save</string>
+  <!--Logout-->
+  <string name="feature_profile_logout">Log Out</string>
+  <!--Birthday-->
+  <string name="feature_profile_birthday">Birthday (YYYY-MM-DD)</string>
+  <!--Saving-->
+  <string name="feature_profile_saving">Saving…</string>
+  <!--Uploading…-->
+  <string name="feature_profile_uploading">Uploading…</string>
+  <!--Logging Out…-->
+  <string name="feature_profile_logging_out">Logging Out…</string>
+  <!--Restarting…-->
+  <string name="feature_profile_restarting">Restarting…</string>
+  <!--Loading…-->
+  <string name="feature_profile_loading">Loading…</string>
+
+  <!--Registration screen-->
+  <!--Register New User-->
+  <string name="feature_registration_title">Register New User</string>
+  <!--Enter phone number with international formatting-->
+  <string name="feature_registration_phone_title">Enter phone number with international formatting</string>
+  <!--(+1) 000–000–0000-->
+  <string name="feature_registration_phone_hint">(+1) 000–000–0000</string>
+  <!--Register-->
+  <string name="feature_registration_register">Register</string>
+  <!--Registering…-->
+  <string name="feature_registration_dialog_registering">Registering…</string>
+  <!--Success!-->
+  <string name="feature_registration_success">Success!</string>
+  <!--A User with this phone number already exists-->
+  <string name="feature_registration_user_already_exists">A User with this phone number already exists</string>
+  <!--Please enter your phone number-->
+  <string name="feature_registration_phone_number_cant_be_blank">Please enter your phone number</string>
+  <!--Your phone number is required to be in international format-->
+  <string name="feature_registration_phone_number_must_be_international">Your phone number is required to be in international format</string>
+  <!--First Name-->
+  <string name="feature_registration_first_name_hint">First Name</string>
+  <!--Last Name-->
+  <string name="feature_registration_last_name_hint">Last Name</string>
+  <!--Birthday-->
+  <string name="feature_registration_birthday_hint">Birthday</string>
+  <!--Password-->
+  <string name="feature_registration_password_hint">Password</string>
+  <!--Email-->
+  <string name="feature_registration_email_hint">Email</string>
+  <!--Please ensure all fields have been filled in-->
+  <string name="feature_registration_all_fields_filled_in">Please ensure all fields have been filled in</string>
+  <!--Please enter a new password-->
+  <string name="feature_profile_enter_new_password">Please enter a new password</string>
+</resources>
