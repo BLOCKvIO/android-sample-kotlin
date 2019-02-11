@@ -4,6 +4,9 @@
 
 Android sample application demoing features of the Blockv platform
 
+<h3>Pre-requisites</h3>
+Android Studio 3.3.1+
+
 <h2>Contents</h2>
 
 This sample demos the following features of the BLOCKv Android Sdk
